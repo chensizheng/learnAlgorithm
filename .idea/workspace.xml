@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351d5b26-f585-44a9-91a4-2c7d22965a1e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/丑数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/判断单链表是否有环.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实现LRU缓存.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/实现平方根函数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/括号的合法排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据流中第K大的元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数组中超过一半的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/爬楼梯方法数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第n个斐波那契数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/缺失的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/连续子系列的最大和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/链表的相交节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/容纳最多水的凹槽容量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/求两个有序数组的中位数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/石头中的珠宝数量.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/石头中的珠宝数量.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,41 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="数组中超过一半的数字.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/数组中超过一半的数字.java">
+      <file leaf-file-name="容纳最多水的凹槽容量.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/容纳最多水的凹槽容量.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="227">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="判断单链表是否有环.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/判断单链表是否有环.java">
+      <file leaf-file-name="求两个有序数组的中位数.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/求两个有序数组的中位数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="链表的相交节点.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/链表的相交节点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-              <folding>
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="645">
+              <caret line="76" column="43" lean-forward="true" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -79,6 +47,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>PriorityQueue</find>
+      <find>中位</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -140,6 +109,8 @@
         <option value="$PROJECT_DIR$/src/main/java/数组中超过一半的数字.java" />
         <option value="$PROJECT_DIR$/src/main/java/判断单链表是否有环.java" />
         <option value="$PROJECT_DIR$/src/main/java/链表的相交节点.java" />
+        <option value="$PROJECT_DIR$/src/main/java/容纳最多水的凹槽容量.java" />
+        <option value="$PROJECT_DIR$/src/main/java/求两个有序数组的中位数.java" />
       </list>
     </option>
   </component>
@@ -181,9 +152,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +183,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,9 +214,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.爬楼梯方法数">
+  <component name="RunManager" selected="Application.求两个有序数组的中位数">
     <configuration name="从给定数组中取目标和的组合下标" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="从给定数组中取目标和的组合下标" />
+      <module name="learnAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="求两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="求两个有序数组的中位数" />
       <module name="learnAlgorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -322,11 +298,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.从给定数组中取目标和的组合下标" />
-      <item itemvalue="Application.爬楼梯方法数" />
+      <item itemvalue="Application.求两个有序数组的中位数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.爬楼梯方法数" />
+        <item itemvalue="Application.求两个有序数组的中位数" />
         <item itemvalue="Application.从给定数组中取目标和的组合下标" />
       </list>
     </recent_temporary>
@@ -362,12 +338,13 @@
       <workItem from="1548050345613" duration="9032000" />
       <workItem from="1548123311853" duration="1035000" />
       <workItem from="1548229407148" duration="6710000" />
-      <workItem from="1548294652875" duration="5600000" />
+      <workItem from="1548294652875" duration="5871000" />
+      <workItem from="1548309017807" duration="834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54677000" />
+    <option name="totallyTimeSpent" value="55782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1383" height="877" extended-state="6" />
@@ -389,6 +366,7 @@
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.30653644" />
       <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -400,17 +378,15 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30653644" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30653644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -419,13 +395,14 @@
       <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
@@ -441,7 +418,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -465,20 +442,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/二叉树是否相同.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -822,7 +785,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/数组中超过一半的数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
+        <state relative-caret-position="729">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -832,24 +795,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/判断单链表是否有环.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="459">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/链表的相交节点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="165">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="e#612#613#0" expanded="true" />
             <element signature="e#643#644#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/容纳最多水的凹槽容量.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/求两个有序数组的中位数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="76" column="43" lean-forward="true" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
         </state>
       </provider>
     </entry>
