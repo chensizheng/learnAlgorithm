@@ -13,7 +13,7 @@ public abstract class Drink {
     private float price = 0f;
 
     public String getDesc() {
-        return desc + "-" + this.getPrice();
+        return desc;
     }
 
     public void setDesc(String desc) {

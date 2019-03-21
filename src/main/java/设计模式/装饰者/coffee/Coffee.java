@@ -16,4 +16,9 @@ public class Coffee extends Drink {
     public float cost() {
         return super.getPrice();
     }
+
+    @Override
+    public String getDesc() {
+        return super.getDesc() +"-"+ super.getPrice();
+    }
 }

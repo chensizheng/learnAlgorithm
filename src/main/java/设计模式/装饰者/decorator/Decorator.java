@@ -24,6 +24,6 @@ public class Decorator extends Drink {
 
     @Override
     public String getDesc() {
-        return super.getDesc() + super.getPrice() +"&&"+ obj.getDesc();
+        return super.getDesc() +"-"+ super.getPrice() +" && "+ obj.getDesc();
     }
 }
