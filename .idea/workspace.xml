@@ -2,93 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351d5b26-f585-44a9-91a4-2c7d22965a1e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/GreenHeadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/LongFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/MyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/QuickSwim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/RedHeadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/SwimBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板/Coofee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板/HotDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/模板/模板模式.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/适配器/适配器.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnAlgorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/不用加减求两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/不用加减求两数之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/丑数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/丑数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/买卖股票的最大利润.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/买卖股票的最大利润.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二分搜索.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二分搜索.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二分搜索插入位置.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二分搜索插入位置.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树中序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树是否对称.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树是否对称.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树是否平衡.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树是否平衡.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树是否相同.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树是否相同.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树的层序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树的层序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树的最大深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树的最大深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树的最小深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树的逆层序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树的逆层序遍历.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二叉树翻转.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二叉树翻转.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二维数组的二分搜索.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二维数组的二分搜索.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/二进制中1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/二进制中1的个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/从给定数组中取目标和的组合下标.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/从给定数组中取目标和的组合下标.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/判断单链表是否为回文链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/判断单链表是否为回文链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/判断单链表是否有环.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/判断单链表是否有环.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/区间合并.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/区间合并.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/单身数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/单身数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/合并两个有序数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/合并两个有序数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/合并两个有序链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/合并两个有序链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/向后移动0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/向后移动0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/回文子串个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/回文子串个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/回文子串最长.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/回文子串最长.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/回文字符串判断.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/回文字符串判断.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/回文数字判断.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/回文数字判断.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/图的深拷贝.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/图的深拷贝.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/字符串转整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/字符串转整数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/实现LRU缓存.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/实现LRU缓存.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/实现strstr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/实现strstr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/实现平方根函数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/实现平方根函数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/容纳最多水的凹槽容量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/容纳最多水的凹槽容量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/寻找天际线.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/寻找天际线.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/小岛数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/小岛数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/帕斯卡三角形.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/帕斯卡三角形.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/带有min函数的栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/带有min函数的栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/抢劫环形房子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/抢劫环形房子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/抢劫连排房子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/抢劫连排房子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/括号的合法排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/括号的合法排列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/搜索单词.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/搜索单词.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/数值的n次方.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/数值的n次方.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/数据流中第K大的元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/数据流中第K大的元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/数组中第K大的元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/数组中第K大的元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/数组中超过一半的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/数组中超过一半的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/数组的全排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/数组的全排列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/整数1到n中1出现的次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/整数1到n中1出现的次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/旋转数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/旋转数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/最小路径和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/最小路径和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/最长回文串的长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/最长回文串的长度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/有序数组中求和为给定值的两个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/有序数组中求和为给定值的两个数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/有序数组中的单身数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/有序数组中的单身数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/有效的括号序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/有效的括号序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/检验二叉搜索树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/检验二叉搜索树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/求两个单链表之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/求两个单链表之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/求两个有序数组的中位数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/求两个有序数组的中位数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/汉明距离.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/汉明距离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/没有重复字符的最长子串长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/没有重复字符的最长子串长度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/爬楼梯方法数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/爬楼梯方法数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/爬楼梯的最小代价.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/爬楼梯的最小代价.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/矩阵置零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/矩阵置零.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/石头中的珠宝数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/石头中的珠宝数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/第N个丑数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/第N个丑数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/第n个斐波那契数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/第n个斐波那契数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/缺失的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/缺失的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/翻转单列表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/翻转单列表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/荷兰国旗问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/荷兰国旗问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/行列递增的二维数组搜索.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/行列递增的二维数组搜索.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/解码方式.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/解码方式.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/路径数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/路径数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/路径数量含障碍物.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/路径数量含障碍物.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/连续子系列的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/连续子系列的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/逻辑距离.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/逻辑距离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/链表的相交节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/链表的相交节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/随机洗牌.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/随机洗牌.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/雨后盛水量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法/雨后盛水量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/策略/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/策略/Duck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,13 +22,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Duck.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/策略/Duck.java">
+      <file leaf-file-name="适配器.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/适配器/适配器.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="1107">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="装饰者.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -115,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -143,11 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/括号的合法排列.java" />
-        <option value="$PROJECT_DIR$/src/main/java/丑叔.java" />
-        <option value="$PROJECT_DIR$/src/main/java/丑数.java" />
-        <option value="$PROJECT_DIR$/src/main/java/实现平方根函数.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第n个斐波那契数.java" />
         <option value="$PROJECT_DIR$/src/main/java/爬楼梯方法数.java" />
         <option value="$PROJECT_DIR$/src/main/java/连续子系列的最大和.java" />
         <option value="$PROJECT_DIR$/src/main/java/数组中超过一半的数字.java" />
@@ -190,10 +111,15 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/SwimBehavior.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/LongFly.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/QuickSwim.java" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/Duck.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/MyBehavior.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/RedHeadDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/GreenHeadDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/模板/Coofee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/模板/Tea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/策略/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/模板/HotDrink.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/模板/模板模式.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/适配器/适配器.txt" />
       </list>
     </option>
   </component>
@@ -222,10 +148,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-2075" />
-    <option name="y" value="-249" />
-    <option name="width" value="1376" />
-    <option name="height" value="877" />
+    <option name="x" value="-2560" />
+    <option name="y" value="-540" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -270,6 +196,42 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="模板" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="策略" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="装饰者" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="适配器" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -439,12 +401,12 @@
       <workItem from="1548743507193" duration="7707000" />
       <workItem from="1548812360083" duration="11727000" />
       <workItem from="1553133923232" duration="195000" />
-      <workItem from="1553134394101" duration="1951000" />
+      <workItem from="1553134394101" duration="9251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107480000" />
+    <option name="totallyTimeSpent" value="114780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-540" width="2560" height="1440" extended-state="0" />
@@ -460,7 +422,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285171" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16427432" />
@@ -479,36 +441,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30589125" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32933232" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -542,11 +474,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/连续子系列的最大和.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/数组中超过一半的数字.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/判断单链表是否有环.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/链表的相交节点.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/求两个有序数组的中位数.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/容纳最多水的凹槽容量.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/二分搜索插入位置.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/行列递增的二维数组搜索.java" />
@@ -644,12 +571,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/Coofee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/策略/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/HotDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/模板模式.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/适配器/适配器.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
