@@ -1,0 +1,15 @@
+1、装饰者模式就想打包一个快递
+    1）主体 ：陶瓷 衣服
+    2）包装：保值填充、塑料填充、纸板、模板
+   主体和包装的组合
+
+2、Component
+3、ConcreteComponent & ConcreteDecorator
+4、Decorator
+
+
+动态的将新功能附加到对象上，在对象功能扩展方面，比继承更有弹性。
+
+
+
+
