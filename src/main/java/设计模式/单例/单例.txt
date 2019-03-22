@@ -1,0 +1,29 @@
+有些对象我们只需要一个：线程池、缓存、硬件设备等
+如通过有多个实例会有造成冲突、结果的不一致性等问题
+
+单例模式：确保一个类最多只有一个实例，并提供一个全局访问点；
+
+私有构造函数
+静态获取对象方法
+
+优化：
+1、synchronized getInstance
+    多线程同时调用，每次都会进入synchronized
+2、饿汉：public static Singleton instance = new Singleton();
+3、双重检查
+    public class SingletonNew {
+        public volatile static SingletonNew instance = null;
+
+        private SingletonNew(){}
+        public static SingletonNew getInstance(){
+            if (instance == null){
+                synchronized (SingletonNew.class){
+                    if (instance == null){
+                        return new SingletonNew();
+                    }
+                }
+            }
+            return instance;
+        }
+    }
+    多线程同时调用，只会进入一次synchronized，以后再有多线程同时调用也不会进入synchronized
