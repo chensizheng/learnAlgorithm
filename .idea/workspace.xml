@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351d5b26-f585-44a9-91a4-2c7d22965a1e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例/SingletonNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/单例/单例.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/工厂/工厂模式.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/InternetWeather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/CurrentConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/ForcastConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/WeatherData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,30 +28,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="单例.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例/单例.txt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="观察者模式.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="162">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingletonNew.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例/SingletonNew.java">
+      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="10" selection-start-line="10" selection-end-line="24" selection-end-column="1" />
+              <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentConditions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/CurrentConditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -79,20 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/实现strstr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/随机洗牌.java" />
-        <option value="$PROJECT_DIR$/src/main/java/检验二叉搜索树.java" />
-        <option value="$PROJECT_DIR$/src/main/java/买卖股票的最大利润.java" />
-        <option value="$PROJECT_DIR$/src/main/java/爬楼梯的最小代价.java" />
-        <option value="$PROJECT_DIR$/src/main/java/抢劫连排房子.java" />
-        <option value="$PROJECT_DIR$/src/main/java/抢劫环形房子.java" />
-        <option value="$PROJECT_DIR$/src/main/java/小岛数量.java" />
-        <option value="$PROJECT_DIR$/src/main/java/整数1到n中1出现的次数.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第N个丑数.java" />
-        <option value="$PROJECT_DIR$/src/main/java/寻找天际线.java" />
-        <option value="$PROJECT_DIR$/src/main/java/矩阵置零.java" />
-        <option value="$PROJECT_DIR$/src/main/java/区间合并.java" />
-        <option value="$PROJECT_DIR$/src/main/java/最长回文串的长度.java" />
         <option value="$PROJECT_DIR$/src/main/java/向后移动0.java" />
         <option value="$PROJECT_DIR$/src/main/java/搜索单词.java" />
         <option value="$PROJECT_DIR$/src/main/java/荷兰国旗问题.java" />
@@ -130,6 +148,20 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/单例/Singleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/单例/SingletonNew.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/单例/单例.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂/工厂模式.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/CurrentConditions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/InternetWeather.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Observer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/ForcastConditions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/CurrentConditions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/MainTest.java" />
       </list>
     </option>
   </component>
@@ -157,8 +189,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1248" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="192" />
     <option name="y" value="191" />
     <option name="width" value="1248" />
     <option name="height" value="708" />
@@ -173,7 +205,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +245,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="单例" type="462c0819:PsiDirectoryNode" />
+              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -223,7 +254,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="装饰者" type="462c0819:PsiDirectoryNode" />
+              <item name="工厂" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -232,8 +263,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="装饰者" type="462c0819:PsiDirectoryNode" />
-              <item name="coffee" type="462c0819:PsiDirectoryNode" />
+              <item name="观察者模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -242,8 +272,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="装饰者" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="观察者模式" type="462c0819:PsiDirectoryNode" />
+              <item name="气象站项目OO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -252,12 +282,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="适配器" type="462c0819:PsiDirectoryNode" />
+              <item name="观察者模式" type="462c0819:PsiDirectoryNode" />
+              <item name="观察者模式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,17 +301,20 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="设计模式.单例" />
-      <recent name="设计模式.装饰者" />
-      <recent name="设计模式.策略" />
-      <recent name="算法" />
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/设计模式/装饰者/coffee" />
       <recent name="$PROJECT_DIR$/src/main/java/算法" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="设计模式.观察者模式.观察者模式" />
+      <recent name="设计模式.单例" />
+      <recent name="设计模式.装饰者" />
+      <recent name="设计模式.策略" />
+      <recent name="算法" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="设计模式.工厂" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -294,11 +329,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest">
+  <component name="RunManager" selected="Application.MainTest (1)">
     <configuration name="从给定数组中取目标和的组合下标" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="从给定数组中取目标和的组合下标" />
       <module name="learnAlgorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="InternetWeather" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.观察者模式.气象站项目OO.InternetWeather" />
+      <module name="learnAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.观察者模式.气象站项目OO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.观察者模式.观察者模式.MainTest" />
+      <module name="learnAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.观察者模式.观察者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="设计模式.装饰者.MainTest" />
@@ -390,9 +447,13 @@
     <list>
       <item itemvalue="Application.从给定数组中取目标和的组合下标" />
       <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.InternetWeather" />
+      <item itemvalue="Application.MainTest (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="Application.InternetWeather" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.从给定数组中取目标和的组合下标" />
       </list>
@@ -441,15 +502,18 @@
       <workItem from="1548743507193" duration="7707000" />
       <workItem from="1548812360083" duration="11727000" />
       <workItem from="1553133923232" duration="195000" />
-      <workItem from="1553134394101" duration="16225000" />
+      <workItem from="1553134394101" duration="24336000" />
+      <workItem from="1553680691933" duration="38000" />
+      <workItem from="1553735997553" duration="77000" />
+      <workItem from="1553736673620" duration="1774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121754000" />
+    <option name="totallyTimeSpent" value="131754000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1248" y="191" width="1248" height="708" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -461,12 +525,12 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32933232" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285171" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32774192" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285171" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32798573" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26923078" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24567723" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -481,6 +545,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32774192" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24567723" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32798573" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32933232" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -514,20 +608,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/买卖股票的最大利润.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/爬楼梯方法数.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/爬楼梯的最小代价.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/抢劫连排房子.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/抢劫环形房子.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/小岛数量.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/整数1到n中1出现的次数.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/丑数.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/第N个丑数.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/寻找天际线.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/最长回文串的长度.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/区间合并.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/矩阵置零.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/向后移动0.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/搜索单词.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/荷兰国旗问题.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/旋转数组.java" />
@@ -546,10 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -564,11 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -583,12 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="21" column="1" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,12 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,10 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,38 +689,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/ShortBlack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/Espresso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/Coffee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/ShortBlack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/Espresso.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/decorator/Milk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -677,10 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,9 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,10 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="479">
           <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,10 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -762,14 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,8 +802,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/单例/单例.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="101">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂/工厂模式.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/CurrentConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="36" column="74" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/ForcastConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/InternetWeather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/CurrentConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/观察者模式/观察者模式/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
