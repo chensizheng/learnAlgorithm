@@ -16,4 +16,12 @@
     Subject通知Observer变化。
 
 
+Java内置的观察者
+   Subject:基类 Observable，实现了注册，移除，通知。
+   Observer: 接口，实现update()
+
+   通知时要调用setChange()
+
+
+
 
