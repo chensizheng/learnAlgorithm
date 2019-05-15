@@ -1,0 +1,40 @@
+组合模式：
+    解决的问题：聚类的遍历
+
+餐厅菜单新需求导致的遍历困难
+    餐厅菜单聚类结构现状：
+    Waiter(iterator-数组[MenuItem]  , iterator-List<MenuItem>  , iterator-HashMap<name,MenuItem>)
+
+    新需求：添加餐后甜点子菜单 MenuItem - SubMenu
+    困难：数据结构？怎么遍历?
+
+    结构抽象：
+        Node - Leaf
+    要用树形结构，节点是菜单或子菜单，叶子是菜单项。
+    需要能够在菜单项之间游走，遍历。能够弹性的在菜单项间游走。
+    继承超类,具体Node放具体的子类
+
+组合模式的原理:
+    将对象聚合成树形结构来表现"整体/部分"的层次结构。
+    组合模式能让客户以一致的方式来处理个别对象以及对象组合
+    也就是我们可以忽略对象组合与个体之间的差别
+
+    Abstract MenuComponent{
+        operation();
+        print();
+        remove();
+    }
+
+    Item extends MenuComponent{}
+
+
+    CakeHouseMenu extends MenuComponent{
+        List<MenuComponent> items;
+    }
+    让菜单项和菜单（子菜单）都作为超类的子类，存储和处理的时候都是对超类进行操作。
+
+新的类图结构：见 .jpg
+
+组合模式关键点：
+
+
