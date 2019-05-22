@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351d5b26-f585-44a9-91a4-2c7d22965a1e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/状态模式/CandyMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/状态模式/模式/CandyMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/状态模式/模式/SoldOutState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/状态模式/模式/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/状态模式/状态模式.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/状态模式/状态模式的原理图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/组合模式/类图结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/设计模式/组合模式/组合模式.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="状态模式.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/状态模式/状态模式.txt">
+      <file leaf-file-name="代理模式.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="装饰者.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="508">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -91,7 +74,6 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂/Pizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/工厂/工厂模式.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/CurrentConditions.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/观察者模式/气象站项目OO/InternetWeather.java" />
@@ -129,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/main/java/设计模式/状态模式/模式/CandyMachine.java" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/状态模式/状态模式.txt" />
         <option value="$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt" />
       </list>
     </option>
   </component>
@@ -158,7 +141,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1440" />
-    <option name="y" value="-260" />
+    <option name="y" value="425" />
     <option name="width" value="1440" />
     <option name="height" value="845" />
   </component>
@@ -170,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,57 +161,12 @@
               <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="装饰者" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
-              <item name="迭代器模式" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -474,15 +413,17 @@
       <workItem from="1557216881457" duration="1242000" />
       <workItem from="1557218710459" duration="2778000" />
       <workItem from="1557732125630" duration="5869000" />
-      <workItem from="1557901072028" duration="1588000" />
+      <workItem from="1557901072028" duration="4876000" />
+      <workItem from="1558511851285" duration="2289000" />
+      <workItem from="1558515394094" duration="1303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170127000" />
+    <option name="totallyTimeSpent" value="177007000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1440" y="-260" width="1440" height="845" extended-state="0" />
+    <frame x="-1440" y="425" width="1440" height="845" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -495,10 +436,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3262032" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19607843" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19484241" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18011527" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18587896" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,33 +457,33 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3262032" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.56340057" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.19607843" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32933232" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.56340057" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/工厂/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -728,27 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/Coofee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/HotDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -910,12 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -923,6 +830,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/HotDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/模板/Coofee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -935,8 +863,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/装饰者/装饰者.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="103">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/设计模式/代理模式/代理模式.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
